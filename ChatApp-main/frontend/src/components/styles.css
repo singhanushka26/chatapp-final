@@ -1,0 +1,12 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+.chatbox{
+  background-image: url('./bg.png');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.8;
+}
