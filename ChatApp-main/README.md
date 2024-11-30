@@ -1,3 +1,13 @@
+## About section:
+
+Name:- Anushka Singh
+University:- IIT Bombay
+Department:- Civil engineering
+
+## Documentation
+
+https://docs.google.com/document/d/15msxCeMPdHgcU2ZYbAg5Q-AVjjNu-fTFFWc4CeSHD04/edit?usp=sharing
+
 # Talk-A-Tive
 
 Talk-a-tive is a Full Stack Chatting App.
