@@ -1,7 +1,7 @@
-## About section:
+## About section
 
-Name:- Anushka Singh
-University:- IIT Bombay
+Name:- Anushka Singh U
+niversity:- IIT Bombay
 Department:- Civil engineering
 
 ## Documentation
